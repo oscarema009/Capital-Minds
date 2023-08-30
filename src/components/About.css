@@ -1,0 +1,246 @@
+.about {
+    background-color: #000;
+    border: 1px none;
+    overflow: hidden;
+  }
+  
+  .about .container {
+    height: 922px;
+    width: 1440px;
+  }
+  
+  .about .overlap {
+    height: 718px;
+    left: 48px;
+    position: relative;
+    top: 68px;
+    width: 1360px;
+  }
+  
+  .about .overlap-group {
+    height: 718px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1197px;
+  }
+  
+  .about .contenido {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    height: 595px;
+    justify-content: center;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 124px;
+    width: 966px;
+  }
+  
+  .about .row {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    margin-right: -34px;
+    position: relative;
+  }
+  
+  .about .col-md {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 160px;
+    position: relative;
+    width: 1000px;
+  }
+  
+  .about .card-item {
+    align-items: flex-start;
+    background-color: #fff;
+    border: 1px solid;
+    border-color: #e8e8e8;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: 160px;
+    overflow: hidden;
+    padding: 35px 40px;
+    position: relative;
+    width: 950px;
+  }
+  
+  .about .flex-row {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 15px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .about .icn-resize-icn-xl {
+    height: 39.53px;
+    position: relative;
+    width: 48px;
+  }
+  
+  .about .div {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .about .feature-title {
+    color: #039;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.1px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .about .paragraph {
+    color: #737373;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 0.2px;
+    margin-bottom: -3.53px;
+    margin-right: -14px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .about .card-item-wrapper {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 160px;
+    position: relative;
+    width: 950px;
+  }
+  
+  .about .card-item-2 {
+    align-items: flex-start;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #e8e8e8;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: 160px;
+    overflow: hidden;
+    padding: 35px 40px;
+    position: relative;
+    width: 950px;
+  }
+  
+  .about .text-wrapper {
+    color: #737373;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 0.2px;
+    margin-bottom: -3.53px;
+    margin-right: -11px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .about .p {
+    color: #737373;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 0.2px;
+    margin-bottom: -3.53px;
+    margin-right: -36px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .about .titulo {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 124px;
+    left: 147px;
+    padding: 10px 0px;
+    position: absolute;
+    top: 0;
+    width: 1050px;
+  }
+  
+  .about .main-content-wrapper {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    margin-bottom: -10px;
+    position: relative;
+    width: 689px;
+  }
+  
+  .about .main-content {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+    overflow: hidden;
+    position: relative;
+    width: 688px;
+  }
+  
+  .about .feature-section {
+    color: #fff;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 57px; /* 142.5% */
+    letter-spacing: 0.2px;
+    margin-left: -156px;
+    margin-right: -156px;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: 1000px;
+  }
+  
+  .about .metricas {
+    height: 542px;
+    left: 985px;
+    position: absolute;
+    top: 150px;
+    width: 375px;
+  }
+  
+  .about .image {
+    height: 438px;
+    left: 25px;
+    object-fit: cover;
+    position: absolute;
+    top: 52px;
+    width: 325px;
+  }

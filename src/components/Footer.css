@@ -1,0 +1,35 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    background: var(--background-gradient-1, linear-gradient(270deg, #D71489 0%, #004788 100%));
+    color: white;
+    height: 170px;
+    
+  }
+  
+  .column {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .column ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .column ul li {
+    margin-bottom: 10px;
+  }
+  
+  .social-icons {
+    display: flex;
+  }
+  
+  .social-icons a {
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  

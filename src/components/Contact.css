@@ -1,0 +1,83 @@
+.contact {
+    background-color: #000000;
+    border: 1px none;
+  }
+  
+  .contact .overlap {
+    background-color: #000000;
+    height: 837px;
+    width: 1440px;
+  }
+  
+  .contact .container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 50px 0px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .contact .row {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 30px;
+    position: relative;
+  }
+  
+  .contact .texto {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 50px 0px;
+    position: relative;
+    width: 800px;
+  }
+  
+  .contact .titulo {
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 57px; /* 142.5% */
+    letter-spacing: 0.2px;
+    margin-top: -1px;
+    position: relative;
+    width: 800px;
+  }
+  
+  .contact .frase {
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 0.2px;
+    position: relative;
+    text-align: justify;
+    width: 600px;
+  }
+  
+  .contact .imagen {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    padding: 50px 0px;
+    position: relative;
+    width: 416px;
+  }
+  
+  .contact .pngwing {
+    height: 169.1px;
+    object-fit: cover;
+    position: relative;
+    width: 414.5px;
+  }
+  
+  
